@@ -9,5 +9,5 @@
  * @author degan
  */
 public class CSVReader {
-    
+    public String test = "Testing git hub collaboration";
 }
